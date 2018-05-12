@@ -1,0 +1,32 @@
+_repo: Essai-sur-la-litt-rature-merveilleuse-des-noirs-suivi-de-Contes-indig-nes-de-l-Ouest-africain__15458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Equilbecq, François-Victor
+    aliases:
+    - Equilbecq, Victor François
+    - Équilbecq, Francois-Victor
+    - Equilbecq, F. V. (François-Victor)
+    birthdate: 1872
+    deathdate: 1917
+    gutenberg_agent_id: '6069'
+    url: http://www.gutenberg.org/2009/agents/6069
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2005-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15458'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Africa, French-speaking West'
+- !lcc 'GR'
+title: Essai sur la littérature merveilleuse des noirs, suivi de Contes indigènes
+  de l'Ouest africain français - Tome premier
+url: http://www.gutenberg.org/ebooks/15458
